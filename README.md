@@ -2,4 +2,4 @@
 
 edit an networkdiagram with draw.io and save it in github
 
-![](/network diagram.drawio.svg)
+![](https://github.com/der-saboteur/nwdiagram/blob/main/network%20diagram.drawio.svg)
