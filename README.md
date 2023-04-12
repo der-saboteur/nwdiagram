@@ -2,4 +2,4 @@
 
 edit an networkdiagram with draw.io and save it in github
 
-![Alt](network diagram.drawio)
+![example drawio file](network diagram.drawio)
